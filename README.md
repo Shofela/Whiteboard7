@@ -3,7 +3,7 @@ Aggregate of  course excercies
 
 
 this is a list of items
-* AlphabetizeTest 	
+* [AlphabetizeTest](https://github.com/showfella/Whiteboard7/tree/master/AlphabetizeTest) 	
 *	Alphetize 	
 *	Calendar 	
 * CalendarTest
