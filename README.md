@@ -6,8 +6,9 @@ this is a list of items
 * AlphabetizeTest 	
 *	Alphetize 	
 *	Calendar 	
+* CalendarTest
 *	CharacterPosition 	
-*	CharacterPositionTest 	
+*	[CharacterPositionTest] 	
 *	DistinctArrayElements 	
 *	DistinctArrayElementsTest 	
 *	PalindromeLib 	
