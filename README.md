@@ -8,7 +8,7 @@ this is a list of items
 *	Calendar 	
 * CalendarTest
 *	CharacterPosition 	
-*	[CharacterPositionTest] 	
+*	CharacterPositionTest 	
 *	DistinctArrayElements 	
 *	DistinctArrayElementsTest 	
 *	PalindromeLib 	
