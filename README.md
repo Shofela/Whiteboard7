@@ -1,19 +1,33 @@
-# Whiteboard7
+# WHITEBOARD7 
+Aggregate of  course excercies 
 
-## heading level 2
-
-## another level 2 header
 
 this is a list of items
-* item 1
-* item 2
+* AlphabetizeTest 	
+*	Alphetize 	
+*	Calendar 	
+*	CharacterPosition 	
+*	CharacterPositionTest 	
+*	DistinctArrayElements 	
+*	DistinctArrayElementsTest 	
+*	PalindromeLib 	
+*	PalindromeTest 	
+*	PrimeNumbers 	
+*	PrimeNumbersTest 	
+*	PrimeTest 	
+*	PyramidBrickCount 
+*	PyramidBrickCountTest 
+*	ReverseString 	
+*	ReverseStringTest 	
+*	SumOfOdds 	
+*	SwapIntegers 	
+*	SwapIntegersTest 	
+*	Whiteboard7 	
+*	pi 	
+*	tuition 	
 
 
-4. this is another list item
-4. this is another.
-4. and another.
 
 
-### Class repository
 
-this is a repository where I can keep sample code from the currrent class.
+
